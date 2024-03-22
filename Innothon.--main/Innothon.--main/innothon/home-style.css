@@ -1,0 +1,320 @@
+.home {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    
+    width: 100%;
+    height: 100%;
+}
+
+.home .group-wrapper {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+}
+
+.home .group {
+    height: 1024px;
+}
+
+.home .overlap {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.home .search {
+    position: absolute;
+    width: 42px;
+    height: 55px;
+    top: 161px;
+    left: 307px;
+}
+
+.home .div-wrapper {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.home .overlap-group-wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.home .overlap-group {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-image: url(./img/image\ 1\ \(1\).png);
+    background-size: 100% 100%;
+    overflow-y: hidden;
+    object-fit: cover;
+   
+}
+
+.home .div {
+    position: absolute;
+    width: 1253px;
+    height: 350px;
+    top: 49px;
+    left: 66px;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+}
+
+.home .overlap-2 {
+    position: absolute;
+    width: 959px;
+    height: 207px;
+    top: 21px;
+    left: 265px;
+}
+
+.home .overlap-3 {
+    position: absolute;
+    width: 959px;
+    height: 194px;
+    top: 0;
+    left: 0;
+}
+
+.home .text-wrapper {
+    position: absolute;
+    width: 568px;
+    top: 13px;
+    left: 77px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .image {
+    width: 150px;
+    height: 95px;
+    top: 99px;
+    left: 239px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.home .image:hover{
+    width:160px ;
+    height: 105px; 
+    border-radius: 10%;
+    
+}
+
+.home .img {
+    width: 150px;
+    height: 85px;
+    top: 102px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.home .img:hover{
+    width:160px ;
+    height: 105px; 
+    border-radius: 30%;
+    
+}
+
+
+
+
+
+.home .rectangle {
+    position: absolute;
+    width: 344px;
+    height: 42px;
+    top: 3px;
+    left: 615px;
+    background-color: #d08e2c;
+    border-radius: 40px;
+}
+
+.home .text-wrapper-2 {
+    position: absolute;
+    top: 4px;
+    left: 619px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    width: 330px;
+    border-radius: 35px;
+}
+
+.home .search-bar {
+    position: absolute;
+    width: 53px;
+    height: 48px;
+    top: 0;
+    left: 645px;
+}
+
+.home .image-2 {
+    width: 150px;
+    height: 94px;
+    top: 107px;
+    left: 483px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.home .image-2:hover{
+    width:160px ;
+    height: 105px; 
+    border-radius: 30%;
+    
+}
+
+
+
+
+.home .image-3 {
+    width: 150px;
+    height: 100px;
+    top: 107px;
+    left: 743px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.home .image-3:hover{
+    width:160px ;
+    height: 105px; 
+    border-radius: 10%;
+    
+}
+
+
+
+.home .image-4 {
+    width: 162px;
+    height: 100px;
+    top: 115px;
+    left: 44px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.home .image-4:hover{
+    width:160px ;
+    height: 105px; 
+    border-radius: 10%;
+    
+}
+
+
+
+
+.home .text-wrapper-3 {
+    position: absolute;
+    width: 183px;
+    top: 268px;
+    left: 1008px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-4 {
+    position: absolute;
+    width: 110px;
+    top: 247px;
+    left: 535px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-5 {
+    position: absolute;
+    top: 261px;
+    left: 304px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-6 {
+    position: absolute;
+    top: 267px;
+    left: 773px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-7 {
+    position: absolute;
+    top: 261px;
+    left: 101px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home .image-5 {
+    width: 79px;
+    height: 79px;
+    top: 0;
+    left: 1348px;
+    position: absolute;
+    object-fit: cover;
+}
+.image-5:hover{
+    cursor: pointer;
+    /* border: 1px solid black; */
+}
+.home .text-wrapper-8 {
+    position: absolute;
+    width: 153px;
+    top: 645px;
+    left: 782px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #ff4c00;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}

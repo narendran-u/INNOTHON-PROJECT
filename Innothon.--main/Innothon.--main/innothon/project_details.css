@@ -1,0 +1,197 @@
+.my-projects {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.my-projects .overlap-group-wrapper {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+}
+
+.my-projects .overlap-group {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-image: url(./img/WhatsApp\ Image\ 2023-09-15\ at\ 20.01\ 1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.my-projects .text-wrapper {
+    position: absolute;
+    width: 109px;
+    top: 18px;
+    left: 1313px;
+    font-family: "Josefin Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: #ff3d00;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.my-projects .doc-paper {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 708px;
+    left: 124px;
+}
+
+.my-projects .img {
+    top: 817px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 126px;
+}
+
+.my-projects .doc-paper-2 {
+    top: 580px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 126px;
+}
+
+.my-projects .div {
+    position: absolute;
+    width: 247px;
+    top: 707px;
+    left: 211px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.my-projects .text-wrapper-2 {
+    position: absolute;
+    width: 274px;
+    top: 586px;
+    left: 204px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.my-projects .p {
+    position: absolute;
+    width: 680px;
+    top: 67px;
+    left: 374px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.my-projects .add-members {
+    width: 262px;
+    top: 758px;
+    left: 938px;
+    position: absolute;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.my-projects .text-wrapper-3 {
+    width: 264px;
+    top: 647px;
+    left: 936px;
+    position: absolute;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.my-projects .user-add {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 752px;
+    left: 888px;
+}
+
+.my-projects .user-add-2 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 637px;
+    left: 886px;
+}
+
+.my-projects .text-wrapper-4 {
+    position: absolute;
+    width: 217px;
+    top: 825px;
+    left: 219px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.my-projects .line {
+    width: 585px;
+    height: 5px;
+    top: 146px;
+    left: 425px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.my-projects .line-2 {
+    width: 3px;
+    height: 246px;
+    top: 597px;
+    left: 718px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.my-projects .project-description {
+    position: absolute;
+    width: 1409px;
+    top: 197px;
+    left: 13px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}

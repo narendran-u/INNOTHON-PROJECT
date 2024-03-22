@@ -1,0 +1,165 @@
+.my-projects {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.my-projects .overlap-group-wrapper {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+}
+
+.my-projects .overlap-group {
+    position: relative;
+    height: 1024px;
+    background-image: url(./img/WhatsApp\ Image\ 2023-09-15\ at\ 20.01\ 1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.my-projects .text-wrapper {
+    position: absolute;
+    width: 172px;
+    top: 47px;
+    left: 1268px;
+    font-family: "Josefin Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: #ff3d00;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.my-projects .overlap {
+    position: absolute;
+    width: 272px;
+    height: 51px;
+    top: 499px;
+    left: 124px;
+}
+
+.my-projects .doc-paper {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 1px;
+    left: 0;
+}
+
+.my-projects .div {
+    position: absolute;
+    width: 247px;
+    top: 0;
+    left: 25px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.my-projects .overlap-2 {
+    position: absolute;
+    width: 272px;
+    height: 53px;
+    top: 621px;
+    left: 124px;
+}
+
+.my-projects .img {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 3px;
+    left: 0;
+}
+
+.my-projects .overlap-3 {
+    position: absolute;
+    width: 272px;
+    height: 51px;
+    top: 745px;
+    left: 124px;
+}
+
+.my-projects .text-wrapper-2 {
+    position: absolute;
+    width: 379px;
+    top: 91px;
+    left: 483px;
+    font-family: "Roboto Serif-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.my-projects .plus {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 687px;
+    left: 1167px;
+}
+
+.my-projects .text-wrapper-3 {
+    position: absolute;
+    width: 186px;
+    top: 797px;
+    left: 1124px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.my-projects .overlap-4 {
+    position: absolute;
+    width: 272px;
+    height: 51px;
+    top: 377px;
+    left: 124px;
+}
+
+.my-projects .overlap-5 {
+    position: absolute;
+    width: 438px;
+    height: 100px;
+    top: 218px;
+    left: 45px;
+}
+
+.my-projects .rectangle {
+    position: absolute;
+    width: 324px;
+    height: 100px;
+    top: 0;
+    left: 58px;
+    background-color: #000000;
+    border-radius: 50px;
+}
+
+.my-projects .text-wrapper-4 {
+    position: absolute;
+    width: 438px;
+    top: 12px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}

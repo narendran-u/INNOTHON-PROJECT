@@ -1,0 +1,131 @@
+.DROP {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.DROP .overlap-group-wrapper {
+    background-color: #ffffff;
+    width: 1470px;
+    height: 1024px;
+}
+
+.DROP .overlap-group {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-image: url(./img/image\ 9.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.DROP .text-wrapper {
+    position: absolute;
+    width: 172px;
+    top: 64px;
+    left: 1268px;
+    font-family: "Josefin Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: #ff3d00;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.DROP .overlap {
+    position: absolute;
+    width: 888px;
+    height: 362px;
+    top: 192px;
+    left: 276px;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    border: 10px dashed;
+    border-color: #000000;
+}
+
+.DROP .div {
+    position: absolute;
+    width: 401px;
+    top: 25px;
+    left: 234px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 5px;
+    line-height: normal;
+}
+
+.DROP .text-wrapper-2 {
+    position: absolute;
+    top: 143px;
+    left: 411px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 5px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.DROP .div-wrapper {
+    position: absolute;
+    width: 256px;
+    height: 40px;
+    top: 238px;
+    left: 316px;
+    background-color: #dfc7c7;
+    border-radius: 40px;
+    border: 1px solid rgb(205, 177, 177);
+}
+.div-wrapper:hover{
+    cursor: pointer;
+    border: 2px solid rgb(145, 80, 80);
+}
+.DROP .text-wrapper-3 {
+    position: absolute;
+    top: 8px;
+    left: 47px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+
+.DROP .text-wrapper-4 {
+    position: absolute;
+    top: 767px;
+    left: 605px;
+    font-family: "Galdeano-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: normal;
+    white-space: nowrap;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.text-wrapper-4:hover{
+    cursor: pointer;
+    border: 5px solid black;
+}
+
+.upbutton{
+    border-radius: 5px;
+    border: 5px solid red;
+}

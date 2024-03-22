@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="globals.css" />
+        <link rel="stylesheet" href="drop.css" />
+    </head>
+    <body>
+        <div class="DROP">
+            <div class="overlap-group-wrapper">
+                <div class="overlap-group">
+                    <a href="file:///D:/innothon/home.html"  style="text-decoration: none;" class="text-wrapper">HOME</a>
+                    <div class="overlap">
+                        <div class="div">Select and upload your file here</div>
+
+
+
+
+                        <!-- <div class="text-wrapper-2">or</div> -->
+                        <button class="div-wrapper"><div class="text-wrapper-3">
+                                <input class="inp" type="file" id="myFile" name="filename" >
+                        </div></button>
+                    </div>
+                    <div class="text-wrapper-4" id="plagiarism">Upload and check plagiarism</div>
+                    <script type="text/javascript">
+                        document.getElementById("plagiarism").onclick = function () {
+                            location.href = "plagiarism.html";
+                        };
+                    </script>
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
